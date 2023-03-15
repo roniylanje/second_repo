@@ -1,0 +1,10 @@
+Lst=[1,2,3,4,5,6,6,7,8,9,7]
+print(Lst[::])
+print(Lst[::1])
+print(Lst[:6:-2])
+print(Lst[::-1])
+print(Lst[::-2])
+print(Lst[::-3])
+print(Lst[3:6:3])
+print(Lst[:6:1])
+print(Lst[3:7])
